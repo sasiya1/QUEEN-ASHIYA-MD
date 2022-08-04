@@ -22,11 +22,11 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['94786746412'] //your owner number
-global.premium = ['94786746412'] //your Owner number in menu msg
-global.ownernomer = '94786746412' //your owner number info
+global.owner = ['94714790066'] //your owner number
+global.premium = ['94714790066'] //your Owner number in menu msg
+global.ownernomer = '94714790066' //your owner number info
 
-global.ownername = 'Ishan Sandeepa' //your owner name
+global.ownername = 'cheems bot' //your owner name
 global.botname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
 global.footer = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' 
 
@@ -40,7 +40,7 @@ global.alivemsgimage = 'https://wallpaperaccess.com/full/3008776.jpg' // ඔය�
 
 global.chatbotpre = "true"
 
-global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
+global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- vimu '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']                          // 👈 මේවා ඔයාට ඕන විදියට වෙනස් කර ගන්න \\ 
 global.sp = '⭔'
